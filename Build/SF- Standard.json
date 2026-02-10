@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Slot-Simulator",
-"dataUrl": "SF-.data.unityweb",
-"wasmCodeUrl": "SF-.wasm.code.unityweb",
-"wasmFrameworkUrl": "SF-.wasm.framework.unityweb",
+"dataUrl": "SF- Standard.data.unityweb",
+"wasmCodeUrl": "SF- Standard.wasm.code.unityweb",
+"wasmFrameworkUrl": "SF- Standard.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
